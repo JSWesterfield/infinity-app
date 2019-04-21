@@ -22,9 +22,7 @@ Run codegen to generate TypeScript types
 Run start
     $ yarn start
 ```
-
 or 
-
 ```npm
 Run npm
     $ npm install
@@ -45,14 +43,44 @@ npm install infinity-app
 yarn install infinity-app
 ```
 
+## Testing
+
+Use the testing framework Jest [jest](https://jestjs.io/) to test the infinity-app(infinite decisions app) with Babel and/or React.
+Use the testing enzyme package manager [enzyme](https://yarnpkg.com/lang/en/docs/install/) to test the infinity-app.
+
+Jest.
+```yarn
+yarn add --dev jest
+```
+
+```npm
+npm install --save-dev jest
+```
+
+```Babel using yarn
+yarn add --dev babel-jest @babel/core @babel/preset-env
+```
+
+Enzmye.
+```yarn
+yarn add --dev jest
+```
+
+```npm
+npm install --save-dev jest
+```
+
 ## Built With
 
-* [React](https://reactjs.org/docs/getting-started.html) -based open-source web application framework from Facebook. Version 3.4.
+* [React](https://reactjs.org/docs/getting-started.html) - based open-source web application framework from Facebook. Version 3.4.
 * [Redux](https://redux.js.org/introduction/getting-started) - Redux is a predictable state container for JavaScript apps.
 * [Babel](https://babeljs.io/docs/en/) - a toolchain that is mainly used to convert ECMAScript 2015+ code into a backwards compatible version of JavaScript in current and older browsers or environments
 * [Babel-cli 3.24.1](https://babeljs.io/docs/en/) - Babel can convert JSX syntax. ;
 * [NPM](https://docs.npmjs.com/) - Dependency Management
 * [yarn](https://docs.npmjs.com/) - Dependency Management
+* [Webpack](https://docs.npmjs.com/) - Dependency Management
+* [enzyme](https://airbnb.io/enzyme/) - a JavaScript Testing utility for React that makes it easier to test your React Components' output. Developed by Airbnb. You can also manipulate, traverse, and in some ways simulate runtime given the output.
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
