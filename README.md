@@ -1,12 +1,12 @@
-# infinite-decsions-app
+# infinity-app
 infinity-app React + NextJS form &amp; feed test app
 
-Infinite Decisions App is a React web application is a fundamental application that helps the user make those 'tough' decisions. 
+Infinity App is a React web application is a fundamental application that helps the user make those 'tough' decisions. 
 Looking to build the application as a resource guide to find fun things for the user to do locally in their vicinity(certain sq mile radius). 
 
-![decisions-img](https://unsplash.com/photos/D_TMd1vDKXA)
+![whatsapp-mirror-img](https://media.giphy.com/media/9aDBfz8iy4caA/giphy.gif)
 
-<a href=""><p align="center"><img src="https://media.giphy.com/media/9aDBfz8iy4caA/giphy.gif" alt="infinite-decisions" width="240"></p></a>
+<a href="https://media.giphy.com/media/9aDBfz8iy4caA/giphy.gif" alt="waynes-world-decision" width="240"></p></a>
 
 ### Prerequisites
 Install NPM following the [official instructions](https://nodejs.org/en/).
@@ -46,7 +46,7 @@ yarn install infinity-app
 ## Testing
 
 Use the testing framework Jest [jest](https://jestjs.io/) to test the infinity-app(infinite decisions app) with Babel and/or React.
-Use the testing enzyme package manager [enzyme](https://yarnpkg.com/lang/en/docs/install/) to test the infinity-app.
+Use the testing enzyme package manager [enzyme](added testing frameworks jest, enzyme, etc) to test the infinity-app.
 
 Jest.
 ```yarn
@@ -77,9 +77,10 @@ npm install --save-dev jest
 * [Babel](https://babeljs.io/docs/en/) - a toolchain that is mainly used to convert ECMAScript 2015+ code into a backwards compatible version of JavaScript in current and older browsers or environments
 * [Babel-cli 3.24.1](https://babeljs.io/docs/en/) - Babel can convert JSX syntax. ;
 * [NPM](https://docs.npmjs.com/) - Dependency Management
-* [yarn](https://docs.npmjs.com/) - Dependency Management
+* [Yarn](https://docs.npmjs.com/) - Dependency Management
 * [Webpack](https://docs.npmjs.com/) - Dependency Management
-* [enzyme](https://airbnb.io/enzyme/) - a JavaScript Testing utility for React that makes it easier to test your React Components' output. Developed by Airbnb. You can also manipulate, traverse, and in some ways simulate runtime given the output.
+* [Jest](https://jestjs.io/docs/en/getting-started) - A comprehensive JavaScript testing framework.
+* [Enzyme](https://airbnb.io/enzyme/) - a JavaScript Testing utility for React that makes it easier to test your React Components' output. Developed by Airbnb. You can also manipulate, traverse, and in some ways simulate runtime given the output.
 
 
 ## Contributing
