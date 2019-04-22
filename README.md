@@ -77,8 +77,8 @@ npm install --save-dev jest
 * [Redux](https://redux.js.org/introduction/getting-started) - Redux is a predictable state container for JavaScript apps.
 * [Babel](https://babeljs.io/docs/en/) - a toolchain that is mainly used to convert ECMAScript 2015+ code into a backwards compatible version of JavaScript in current and older browsers or environments
 * [Babel-cli 3.24.1](https://babeljs.io/docs/en/) - Babel can convert JSX syntax.
-* [NPM](https://docs.npmjs.com/) - Dependency Management
-* [Yarn](https://docs.npmjs.com/) - Dependency Management
+* [NPM](https://docs.npmjs.com/) - Dependency Management. Default package manager for the JS runtime environment Node.js
+* [Yarn](https://docs.npmjs.com/) - Dependency Management,  a fast, reliable, and secure alternative npm client.
 * [Webpack](https://webpack.js.org/concepts) - an open-source JavaScript module bundler
 * [Jest](https://jestjs.io/docs/en/getting-started) - A comprehensive JavaScript testing framework.
 * [Enzyme](https://airbnb.io/enzyme/) - a JavaScript(primarily React) Testing utility for React that makes it easier to test your React Components' output. Developed by Airbnb. You can also manipulate, traverse, and in some ways simulate runtime given the output.
