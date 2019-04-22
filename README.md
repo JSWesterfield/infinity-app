@@ -1,5 +1,5 @@
 # Infinity App :crystal_ball:
-Infinity App  = React + NextJS form &amp; feed test app
+Infinity App  = React + Redux + Firebase, form feed test application
 
 Infinity App is a React web application is a fundamental application that helps the user make those 'tough' decisions. 
 Looking to build the application as a resource guide to find fun things for the user to do locally in their vicinity(certain sq mile radius). 
@@ -12,7 +12,7 @@ Looking to build the application as a resource guide to find fun things for the 
 Install NPM following the [official instructions](https://nodejs.org/en/).
 Install NPM following the [official instructions](https://nodejs.org/en/).
 
-### Run instructions
+### Run instructions :running:
 
 ```yarn
 Run yarn
@@ -30,7 +30,7 @@ Run npm
 Run start
     $ yarn start
 ```
-## Installation
+## Installation :point_down:
 
 Use the secondary package manager [npm](https://nodejs.org/en/) to install infinity-app.
 Use the primary package manager [yarn](https://yarnpkg.com/lang/en/docs/install/) to install infinity-app.
@@ -43,7 +43,7 @@ npm install infinity-app
 yarn install infinity-app
 ```
 
-## Testing
+## Testing :wrench:
 
 Use the testing framework Jest [jest](https://jestjs.io/) to test the infinity-app(infinite decisions app) with Babel and/or React.
 Use the testing enzyme package manager [enzyme](added testing frameworks jest, enzyme, etc) to test the infinity-app.
@@ -70,7 +70,7 @@ yarn add --dev jest
 npm install --save-dev jest
 ```
 
-## Built With
+## Built With :hammer_and_wrench:
 
 * [React](https://reactjs.org/docs/getting-started.html) - based open-source web application framework from Facebook. Version 3.4.
 * [Redux](https://redux.js.org/introduction/getting-started) - Redux is a predictable state container for JavaScript apps.
@@ -83,15 +83,14 @@ npm install --save-dev jest
 * [Enzyme](https://airbnb.io/enzyme/) - a JavaScript Testing utility for React that makes it easier to test your React Components' output. Developed by Airbnb. You can also manipulate, traverse, and in some ways simulate runtime given the output.
 * [Firebase](https://firebase.google.com/docs/) -  a mobile and web application development platform developed by Firebase, Inc. Managed by Google.
 
-## Contributing
+## Contributing :open_hands:
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-## Authors
-
+## Authors :book:
 * **Jake Westerfield** - *Primary Work*
 
-## License
+## License :microscope:
 [MIT](https://choosealicense.com/licenses/mit/)
 
