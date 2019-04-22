@@ -80,8 +80,10 @@ npm install --save-dev jest
 * [Yarn](https://docs.npmjs.com/) - Dependency Management
 * [Webpack](https://webpack.js.org/concepts) - an open-source JavaScript module bundler
 * [Jest](https://jestjs.io/docs/en/getting-started) - A comprehensive JavaScript testing framework.
-* [Enzyme](https://airbnb.io/enzyme/) - a JavaScript Testing utility for React that makes it easier to test your React Components' output. Developed by Airbnb. You can also manipulate, traverse, and in some ways simulate runtime given the output.
+* [Enzyme](https://airbnb.io/enzyme/) - a JavaScript(primarily React) Testing utility for React that makes it easier to test your React Components' output. Developed by Airbnb. You can also manipulate, traverse, and in some ways simulate runtime given the output.
 * [Firebase](https://firebase.google.com/docs/) -  a mobile and web application development platform developed by Firebase, Inc. Managed by Google.
+* [ES6/ES7](http://es6-features.org/#Constants | https://developer.mozilla.org/en-US/docs/Archive/Web/JavaScript/ECMAScript_Next_support_in_Mozilla#ECMAScript_2017) - ECMAScript Next refers to new features of the ECMA-262 standard (commonly referred to as JavaScript) introduced after ECMAScript 2015. New versions of ECMAScript specifications are released yearly.
+
 
 ## Contributing :open_hands:
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
