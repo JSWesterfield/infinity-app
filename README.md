@@ -1,5 +1,5 @@
-# infinity-app
-infinity-app React + NextJS form &amp; feed test app
+# Infinity App
+Infinity App  = React + NextJS form &amp; feed test app
 
 Infinity App is a React web application is a fundamental application that helps the user make those 'tough' decisions. 
 Looking to build the application as a resource guide to find fun things for the user to do locally in their vicinity(certain sq mile radius). 
