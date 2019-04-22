@@ -1,12 +1,13 @@
 # Infinity App :crystal_ball:
 Infinity App  = React + Redux + Firebase, form feed test application
 
-Infinity App is a React web application is a fundamental application that helps the user make those 'tough' decisions. 
+Infinity(Infinite Decisions) App, is a React web application is a fundamental application that helps the user make those 'tough' decisions. 
 Looking to build the application as a resource guide to find fun things for the user to do locally in their vicinity(certain sq mile radius). 
 
-![whatsapp-mirror-img](https://media.giphy.com/media/9aDBfz8iy4caA/giphy.gif)
+![infinite-decisions-img](https://media.giphy.com/media/7pV1DcmORi6Zy/giphy.gif)
 
-<a href="https://media.giphy.com/media/9aDBfz8iy4caA/giphy.gif" alt="waynes-world-decision" width="240"></p></a>
+
+
 
 ### Prerequisites
 Install NPM following the [official instructions](https://nodejs.org/en/).
