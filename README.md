@@ -1,4 +1,4 @@
-# Infinity App
+# Infinity App :crystal_ball:
 Infinity App  = React + NextJS form &amp; feed test app
 
 Infinity App is a React web application is a fundamental application that helps the user make those 'tough' decisions. 
@@ -48,7 +48,7 @@ yarn install infinity-app
 Use the testing framework Jest [jest](https://jestjs.io/) to test the infinity-app(infinite decisions app) with Babel and/or React.
 Use the testing enzyme package manager [enzyme](added testing frameworks jest, enzyme, etc) to test the infinity-app.
 
-Jest.
+Jest.:performing_arts:
 ```yarn
 yarn add --dev jest
 ```
@@ -61,7 +61,7 @@ npm install --save-dev jest
 yarn add --dev babel-jest @babel/core @babel/preset-env
 ```
 
-Enzmye.
+Enzmye.:sparkles:
 ```yarn
 yarn add --dev jest
 ```
@@ -75,13 +75,13 @@ npm install --save-dev jest
 * [React](https://reactjs.org/docs/getting-started.html) - based open-source web application framework from Facebook. Version 3.4.
 * [Redux](https://redux.js.org/introduction/getting-started) - Redux is a predictable state container for JavaScript apps.
 * [Babel](https://babeljs.io/docs/en/) - a toolchain that is mainly used to convert ECMAScript 2015+ code into a backwards compatible version of JavaScript in current and older browsers or environments
-* [Babel-cli 3.24.1](https://babeljs.io/docs/en/) - Babel can convert JSX syntax. ;
+* [Babel-cli 3.24.1](https://babeljs.io/docs/en/) - Babel can convert JSX syntax.
 * [NPM](https://docs.npmjs.com/) - Dependency Management
 * [Yarn](https://docs.npmjs.com/) - Dependency Management
-* [Webpack](https://docs.npmjs.com/) - Dependency Management
+* [Webpack](https://webpack.js.org/concepts) - an open-source JavaScript module bundler
 * [Jest](https://jestjs.io/docs/en/getting-started) - A comprehensive JavaScript testing framework.
 * [Enzyme](https://airbnb.io/enzyme/) - a JavaScript Testing utility for React that makes it easier to test your React Components' output. Developed by Airbnb. You can also manipulate, traverse, and in some ways simulate runtime given the output.
-
+* [Firebase](https://firebase.google.com/docs/) -  a mobile and web application development platform developed by Firebase, Inc. Managed by Google.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
